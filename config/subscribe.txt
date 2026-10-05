@@ -3,7 +3,12 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-
+# 来自https://github.com/vbskycn/iptv的自动扫描直播源 IPTV4
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+# 来自https://github.com/vbskycn/iptv的自动扫描直播源 IPTV6
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
+# 来自https://github.com/suxuang/myIPTV的订阅链接-IPV4专用（推荐）
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt
 
 
 
